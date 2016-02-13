@@ -1,0 +1,24 @@
+<CiscoIPPhoneDirectory> 
+	<Title>CABKIHA</Title> 
+	<Prompt>3BOHOK</Prompt> 
+<DirectoryEntry>
+	<Name>CBETA dom</Name>
+	<Telephone>3311</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>CBETA mob</Name>
+	<Telephone>3312</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>DIMA Skype</Name>
+	<Telephone>57</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>CBETA Rus</Name>
+	<Telephone>+79267533139</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>DIMA Rus</Name>
+	<Telephone>+79164436300</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

@@ -1,0 +1,16 @@
+<CiscoIPPhoneDirectory> 
+	<Title>BOUHALOBU4</Title> 
+	<Prompt>3BOHOK</Prompt> 
+<DirectoryEntry>
+	<Name>OLYA #1</Name>
+	<Telephone>3611</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>OLYA #2</Name>
+	<Telephone>3612</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>OLYA Skype</Name>
+	<Telephone>53</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

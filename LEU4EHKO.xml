@@ -1,0 +1,24 @@
+<CiscoIPPhoneDirectory> 
+	<Title>LEU4EHKO</Title> 
+	<Prompt>3BOHOK</Prompt> 
+<DirectoryEntry>
+	<Name>MAWA dom</Name>
+	<Telephone>3511</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>MAWA Rus</Name>
+	<Telephone>+79267631947</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>b.OLGA Ukr</Name>
+	<Telephone>+380639818256</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>CAWA Ukr</Name>
+	<Telephone>+380639818252</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>ALEKCEU Skype</Name>
+	<Telephone>60</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

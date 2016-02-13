@@ -1,0 +1,36 @@
+<CiscoIPPhoneDirectory> 
+	<Title>TITOB</Title> 
+	<Prompt>3BOHOK</Prompt> 
+<DirectoryEntry>
+	<Name>BITA</Name>
+	<Telephone>3411</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>BITA Ukr</Name>
+	<Telephone>+380930302977</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>BITA Skype</Name>
+	<Telephone>54</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>YURA Rus</Name>
+	<Telephone>+79825742147</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>YURA Skype</Name>
+	<Telephone>58</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>YURA Ukr</Name>
+	<Telephone>+380939563096</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>DOROZKO_IGOR_Skype</Name>
+	<Telephone>59</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>BEPY4EB_YURI Skype</Name>
+	<Telephone>64</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

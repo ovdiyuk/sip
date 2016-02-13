@@ -1,0 +1,43 @@
+<CiscoIPPhoneDirectory> 
+	<Title>OBDIYUK</Title> 
+	<Prompt>3BOHOK</Prompt> 
+<DirectoryEntry>
+	<Name>ALEHA</Name>
+	<Telephone>3122</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>EBFEH #1</Name>
+	<Telephone>3112</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>EBFEH #2</Name>
+	<Telephone>3113</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>ALEHA Skype</Name>
+	<Telephone>55</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>EBFEH Skype</Name>
+	<Telephone>51</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>ALEHA Ukr</Name>
+	<Telephone>+390935709820</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>EBFEH Ukr</Name>
+	<Telephone>+390975805656</Telephone>
+</DirectoryEntry><DirectoryEntry>
+	<Name>EBFEH Rus</Name>
+	<Telephone>+79154852421</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>OBDIUK_IBAH Skype</Name>
+	<Telephone>61</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>OBDIUK_OLYA Skype</Name>
+	<Telephone>62</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

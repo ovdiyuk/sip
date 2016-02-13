@@ -1,0 +1,20 @@
+<CiscoIPPhoneDirectory> 
+	<Title>KY4EPYK</Title> 
+	<Prompt>3BOHOK</Prompt>
+ <DirectoryEntry>
+	<Name>CAWA</Name>
+	<Telephone>3712</Telephone>
+</DirectoryEntry>
+ <DirectoryEntry>
+	<Name>TAHYA</Name>
+	<Telephone>3722</Telephone>
+</DirectoryEntry>
+ <DirectoryEntry>
+	<Name>CAWA Skype</Name>
+	<Telephone>52</Telephone>
+</DirectoryEntry>
+ <DirectoryEntry>
+	<Name>CAWA Rus</Name>
+	<Telephone>+79267119887</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>

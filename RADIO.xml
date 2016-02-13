@@ -1,0 +1,40 @@
+<CiscoIPPhoneDirectory> 
+	<Title>RADIO</Title> 
+	<Prompt>3BOHOK</Prompt> 
+<DirectoryEntry>
+	<Name>Radio Vesti</Name>
+	<Telephone>201</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>Hit FM</Name>
+	<Telephone>202</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>Era</Name>
+	<Telephone>203</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>BusinessRadio</Name>
+	<Telephone>204</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>UR-1</Name>
+	<Telephone>205</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>Mix FM</Name>
+	<Telephone>206</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>Classic FM</Name>
+	<Telephone>207</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>Big Top 40</Name>
+	<Telephone>208</Telephone>
+</DirectoryEntry>
+<DirectoryEntry>
+	<Name>Arrow</Name>
+	<Telephone>209</Telephone>
+</DirectoryEntry>
+</CiscoIPPhoneDirectory>
